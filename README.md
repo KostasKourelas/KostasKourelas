@@ -1,39 +1,40 @@
-### Hi there 👋
+## Hey there 👋, I'm [Kostas!](https://github.com/KostasKourelas)
 
-<details>
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kostas-kourelas/)
+[![Github Badge](https://img.shields.io/badge/Github-Pages?style=flat-square&logo=github&logoColor=%23ffffff&color=grey)](https://kostaskourelas.github.io/)
 
-<!--
+[![Kostas's GitHub stats](https://github-stats-alpha.vercel.app/api?username=KostasKourelas&cc=282a36&tc=fff&ic=fff&bc=000 "Kostas's GitHub stats")](https://github-stats-alpha.vercel.app/api?username=tuhinpal&cc=000&tc=fff&ic=fff&bc=000 "Kostas's GitHub stats")
+
+### Glad to see you here! 
+
+I'm aspiring developer with entry-level professional experience in the apps development. My ambition is to help my team increase productivity 
+and improve my knowledge about apps development. I have a Bachelor’s degree in Software engineering, and have also attended courses in mobile 
+and web development. 
+
+In the past, as part of my internship I have worked in a company for six months. I worked on projects using Wordpress, HTML, CSS, 
+JavaScript and SEO Tools technologies. In my thesis I worked on a project where I created a mobile application for reading e-books. 
+I used React Native, Firebase, API and JSON.
+
+I'm thrilled about opportunities and challenges that allow me to utilize my proficiency with React Native and leverage 
+my existing learnigs in mobile development.
 
 
-Here are some ideas to get you started:
+### About:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 &nbsp; I’m currently working with JavaScript, HTML, CSS, React Native, Node.js, Firebase.
+- 🚀 &nbsp; I’m currently exploring Python, TypeScript, Mongo.db, etc.
+- 📫 &nbsp; Reach me out: kourelaskostas@gmail.com.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love deep learning technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+
+### Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KostasKourelas&size_weight=0.5&count_weight=0.5&theme=dracula)
+
+
+
+
+
